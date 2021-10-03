@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Gửi lời chúc tốt đẹp đến tuii đi ^^',
     btnReply: 'Gửi cho cậu <3',
     reply: 'Đùa thế chứ zô fb hay mess mà chúc ai lại chúc ở đây <33333333',
-    mess: 'Yêu mng nhiều nhieefuu <3333333',
+    mess: 'Yêu mng nhiều nhiều <3333333',
     messDesc: 'Nhớ zô chúc đó nhaaa',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/thach3619/' 
