@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'biết chứ',
     title: 'Hôm nay 1 thiên thần đáng iu nhất vũ trụ đã ra đời đóoo',
     desc: ' mng cũng đoán đc đó là ai đúng kooo =))))) ',
-    btnYes: 'Thạch Nguyễn đz cute chứ ai nữa',
+    btnYes: 'Thạch Nguyễn cute chứ ai nữa',
     btnNo: 'Ờ không ?? :3',
     question:'Gửi lời chúc tốt đẹp đến tuii đi ^^',
     btnReply: 'Gửi cho cậu <3',
